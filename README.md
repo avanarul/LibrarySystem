@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040036
+# Name:s avan arul
+# Date:20/08/2026
 
 
 # AIM:
@@ -37,6 +37,8 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
+<img width="731" height="685" alt="image" src="https://github.com/user-attachments/assets/841157f6-279b-4f7a-8ef3-eaa7beddce09" />
+
 
 
 
@@ -57,6 +59,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1076" height="752" alt="image" src="https://github.com/user-attachments/assets/3694a568-85f7-45b3-afa2-1b8e8de76003" />
+
 
 
 
@@ -65,6 +69,8 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+<img width="1080" height="721" alt="image" src="https://github.com/user-attachments/assets/35592bec-b7e2-40c8-aa8d-1681ae43b79a" />
+
 
 
 
@@ -76,6 +82,8 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
+<img width="1028" height="787" alt="image" src="https://github.com/user-attachments/assets/35080c03-43ba-4f00-b297-25ca6f40db99" />
+
 
 
 
@@ -95,6 +103,8 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="852" height="778" alt="image" src="https://github.com/user-attachments/assets/c5183df0-3c45-4f45-8fc9-5bb67e803dc8" />
+
 
 
 
@@ -116,6 +126,8 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
+<img width="864" height="740" alt="image" src="https://github.com/user-attachments/assets/18844b98-34f9-4de8-bf4a-60cdb94c4e00" />
+
 
 
 
